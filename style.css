@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: #3c4846 ;
+}
+.container{
+    background-color:#e3dbd5;
+    width: 420px;
+    height: 470px;
+    margin: 50px auto;
+    border-radius: 5px;
+    color:rgb(0, 0, 0);
+    padding: 30px 60px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+input[type=text]{
+    width: 280px;
+    height: 30px;
+    border-radius: 2px;
+    border: none;
+}
+#fbase{
+    width: 280px;
+    height: 35px;
+    border-radius: 2px;
+}
+
+#tbase{
+    width: 280px;
+    height: 35px;
+    border-radius: 2px;
+}
+
+#btnConvert{
+    width: 280px;
+    height: 35px;
+    background-color:#127221;
+    color:#fff;
+    border: darkseagreen 0px solid;
+    border-radius: 2px;
+}
