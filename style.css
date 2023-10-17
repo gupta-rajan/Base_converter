@@ -4,12 +4,12 @@
     box-sizing: border-box;
 }
 body{
-    background-color: #3c4846 ;
+    background-color: #2da6c4 ;
 }
 .container{
     background-color:#e3dbd5;
     width: 420px;
-    height: 470px;
+    height: 40rem;
     margin: 50px auto;
     border-radius: 5px;
     color:rgb(0, 0, 0);
